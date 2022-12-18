@@ -1,4 +1,4 @@
-height = 122
+height = 20
 
 stars = 1
 for i in range(height):
